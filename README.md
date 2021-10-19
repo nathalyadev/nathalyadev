@@ -1,9 +1,13 @@
 
 ## 💜 Olá, meu nome é <strong>Nathálya!</strong>
 
->
-🔭 
+> Sou desenvolvedora Front-end e Back-end
 
+<h3> :woman: &nbsp;Sobre mim </h3>
+
+- 🎓 &nbsp; Curso que quero fazer: Análise e Desenvolvimento de Sistemas 
+
+- 🌱 &nbsp; No momento estou aprendendo um pouco de Node js.
 ----
 
 ## 🚀 Minhas Skills
