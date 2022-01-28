@@ -1,13 +1,3 @@
-
-## 💜 Olá, meu nome é <strong>Nathálya!</strong>
-
-<h3> :woman: &nbsp;Sobre mim </h3>
-
-- 🎓 &nbsp; Curso que quero fazer: Análise e Desenvolvimento de Sistemas 
-
-- 🌱 &nbsp; No momento estou aprendendo um pouco de Node js.
-----
-
 ## 🚀 Minhas Skills
 
 <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/></code>
