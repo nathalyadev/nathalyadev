@@ -72,7 +72,7 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/Nathgit198/Nathgit198">
+  <a href="https://github.com/Nathgit198/Estudo-Vue-JS">
     <img
       align="center"
       height="120em"
