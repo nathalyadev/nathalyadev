@@ -36,36 +36,31 @@
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-<p align="center">
+
+  <table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nathgit198&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nathgit198&theme=dark&hide_border=true" />
+
+
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nathgit198&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+<br>
+  
+  <p align="center">
   <a href="https://github.com/nathgit198/nathgit198"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Nathálya;Web+Dev"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Nathgit198">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=Nathgit198&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/Nathgit198">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathgit198&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/Nathgit198">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=Nathgit198&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a>
-</a>
 </p>
 
 <h3 align="center">Trabalhando em:</h3>
@@ -78,6 +73,18 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=Nathgit198&repo=make_your_burger&theme=tokyonight">
     </img>
   </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Nathgit198">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=Nathgit198&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
+</a>
 </p>
 
 <h3 align="center">Sobre mim:</h3>
