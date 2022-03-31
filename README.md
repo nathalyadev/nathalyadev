@@ -28,9 +28,6 @@
    <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/Jquery">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" alt="html5" width="40" height="40"/>
-   </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/Php">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="html5" width="40" height="40"/>
    </a>
