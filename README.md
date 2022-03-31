@@ -1,4 +1,4 @@
-![NathályaLima (1)](https://user-images.githubusercontent.com/83317033/151606861-57e2ad6a-4c15-47a6-a50b-68e092954164.png)
+<img src="https://user-images.githubusercontent.com/83317033/151606861-57e2ad6a-4c15-47a6-a50b-68e092954164.png">
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -36,7 +36,9 @@
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Nathálya</h1></img>
+<p align="center">
+  <a href="https://github.com/nathgit198/nathgit198"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Nathálya;Web+Dev"></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Nathgit198">
