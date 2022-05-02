@@ -89,12 +89,6 @@
 <h3 align="center">Sobre mim:</h3>
 
 <p align="center">
-  <a href="https://instagram.com/natdev198/">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
-    />
-  </a>
   <a href="https://www.linkedin.com/in/nath%C3%A1lya-lima-1b1976215/">
     <img
          align="center"
