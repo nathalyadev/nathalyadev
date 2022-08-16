@@ -34,8 +34,7 @@
 </p>
 
 <h4 align="center">
-<details>
-<summary>Mais...</summary>
+
 <br>
   <a href="https://github.com/nathgit198/nathgit198"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Nathálya;Web+Dev"></a>
 
