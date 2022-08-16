@@ -89,6 +89,12 @@
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
+  
+  <a href="https://www.instagram.com/nathalyadev/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+  </a>
 </p>
 <h5 align="center">@Nathgit198</h5>
 </details>
