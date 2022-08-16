@@ -1,6 +1,8 @@
 <img src="https://user-images.githubusercontent.com/83317033/151606861-57e2ad6a-4c15-47a6-a50b-68e092954164.png">
 
-  <p align="center">
+<a href="https://github.com/nathgit198/nathgit198"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Nathálya;Web+Dev"></a>
+
+<p align="center">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
@@ -34,10 +36,6 @@
 </p>
 
 <h4 align="center">
-
-<br>
-  <a href="https://github.com/nathgit198/nathgit198"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Nathálya;Web+Dev"></a>
-
   
   <table border="0" align="center">
 <tr border="0">
@@ -47,9 +45,7 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nathgit198&theme=dark&hide_border=true" />
 
-
-  
-</td>
+  </td>
 
 <td width="50%" align="center">
 
