@@ -60,11 +60,11 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/Nathgit198/make_your_burger">
+  <a href="https://github.com/Nathgit198/Nathalya">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Nathgit198&repo=make_your_burger&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Nathgit198&repo=Nathalya&theme=tokyonight">
     </img>
   </a>
 </p>
