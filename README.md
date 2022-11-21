@@ -84,7 +84,7 @@
 <h3 align="center">Sobre mim:</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nath%C3%A1lya-lima-1b1976215/">
+  <a href="https://www.linkedin.com/in/nath%C3%A1lya-lima/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
