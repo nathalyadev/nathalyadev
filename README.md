@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/83317033/151606861-57e2ad6a-4c15-47a6-a50b-68e092954164.png">
 
 <a href="https://github.com/nathalyadev/nathalyadev"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Nathálya;Web+Dev"></a>
 
