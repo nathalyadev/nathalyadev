@@ -1,6 +1,10 @@
+<div align="center">
+<img src="https://github.com/nathalyadev/nathalyadev/assets/83317033/d2721c36-e25a-4ee8-86da-6f150c31fee3" />
+   
+   <a href="https://github.com/nathalyadev/nathalyadev"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Nathálya;Web+Dev"></a>
+</div>
 
-<a href="https://github.com/nathalyadev/nathalyadev"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Nathálya;Web+Dev"></a>
-
+   
 <p align="center">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
