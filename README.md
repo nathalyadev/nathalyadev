@@ -1,4 +1,6 @@
 <div align="center">
+  
+<img width="1584" height="396" alt="LinkedIn cover - 1" src="https://github.com/user-attachments/assets/62d21a50-d50d-4c1b-965f-3d3806dbd0d3" />
 
 # Nathálya Souza
 
